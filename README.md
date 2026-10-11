@@ -8,7 +8,7 @@ This repository brings together studies and simulations in a controlled environm
 
 ---
 
-![Banner Cibersegurança](./assets/banner.png)
+![Banner Cibersegurança](./assets/Banner.png)
 
 ---
 
