@@ -1,0 +1,6 @@
+# Arquivos temporários do laboratório
+*.log
+*.tmp
+# Não versionar listas reais de credenciais
+*.wordlist
+credentials.*
